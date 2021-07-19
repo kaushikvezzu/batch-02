@@ -11,5 +11,5 @@ project title:
 
 
 github link:
-https://kaushikvezzu.github.io/batch---02/
+https://github.com/kaushikvezzu/batch-02.git
 
